@@ -1,0 +1,848 @@
+                                                /* 
+  ##Device = Most of the Smartphones Mobiles (galxi fold)
+  ##Screen = B/w 279px to 319px
+*/
+                                                
+                                                @media (min-width:279px) and (max-width:319px) {
+                                                    /* CSS start*/
+                                                    .header .navbar-toggler {
+                                                        border: 1px solid #473BF0;
+                                                        border-radius: 3px;
+                                                    }
+                                                    .header .navbar-toggler:focus {
+                                                        text-decoration: none;
+                                                        outline: 0;
+                                                        box-shadow: 0 0 3px #473BF0;
+                                                        background: #473BF0;
+                                                    }
+                                                    .header .navbar-toggler:focus .fa {
+                                                        color: #fff;
+                                                    }
+                                                    .header .navbar-toggler .fa {
+                                                        color: #473BF0;
+                                                        font-size: 30px;
+                                                        font-weight: 300;
+                                                    }
+                                                    /* header menu */
+                                                    .header .navbar .navbar-nav .nav-item .nav-link {
+                                                        margin: 0px;
+                                                    }
+                                                    .header .navbar-nav .nav-item .btn-info {
+                                                        margin: 10px 0px 0px;
+                                                    }
+                                                    /* banner  */
+                                                    .banner {
+                                                        padding: 35px 0px 0px;
+                                                    }
+                                                    .inner-banner {
+                                                        padding: 10px 0px 35px;
+                                                    }
+                                                    .inner-banner h1 {
+                                                        width: 100%;
+                                                        font-size: 32px;
+                                                        line-height: 1.3em;
+                                                        margin: 0px 0px 10px 0px;
+                                                    }
+                                                    .inner-banner p {
+                                                        width: 100%;
+                                                        font-size: 15px;
+                                                        margin: 0px 0px 10px 0px;
+                                                    }
+                                                    .inner-banner .btn-info {
+                                                        font-size: 13px;
+                                                        margin: 5px 0px 0px;
+                                                    }
+                                                    .inner-banner .link {
+                                                        font-size: 12px;
+                                                        margin: 10px 0px 0px -25px;
+                                                    }
+                                                    /* alart css code */
+                                                    .alart {
+                                                        padding: 20px 0px;
+                                                    }
+                                                    .alart p {
+                                                        font-size: 14px;
+                                                    }
+                                                    /* expert section css code */
+                                                    .expert {
+                                                        padding: 35px 0px;
+                                                    }
+                                                    .expert .inner-expert {
+                                                        padding: 0px 0px 35px;
+                                                    }
+                                                    .expert .inner-expert h2 {
+                                                        font-size: 26px;
+                                                        margin: 0px 0px 10px 0px;
+                                                    }
+                                                    .expert .inner-expert p {
+                                                        width: 100%;
+                                                        font-size: 14px;
+                                                        margin: 0px 0px 0px 0px;
+                                                    }
+                                                    .expert .inner-expert .btn-info {
+                                                        padding: 10px 15px;
+                                                        font-size: 13px;
+                                                        margin: 10px 0px 0px 0px;
+                                                    }
+                                                    .expert .img-fluid {
+                                                        width: 100%;
+                                                    }
+                                                    .expert .expert-right h2 {
+                                                        font-size: 24px;
+                                                        margin: 0px 0px 0px 0px;
+                                                    }
+                                                    .expert .expert-right p {
+                                                        font-size: 15px;
+                                                    }
+                                                    /* secrvice section css code */
+                                                    .services {
+                                                        padding: 350px 0px;
+                                                    }
+                                                    .services .tittle {
+                                                        padding: 0px 0px 25px;
+                                                    }
+                                                    .services .tittle h1 {
+                                                        font-size: 18px;
+                                                    }
+                                                    .services .tittle p {
+                                                        width: 100%;
+                                                        font-size: 9px;
+                                                    }
+                                                    .service-box {
+                                                        margin: 0px 0px 8px;
+                                                    }
+                                                    .service-box h4 {
+                                                        font-size: 14px;
+                                                        margin: 0px 0px 8px;
+                                                    }
+                                                    .service-box p {
+                                                        width: 100%;
+                                                        font-size: 10px;
+                                                        margin: 0px 0px 8px;
+                                                    }
+                                                    .service-box .btn-link {
+                                                        font-size: 10px;
+                                                        margin: 0px 0px 0px 0px;
+                                                    }
+                                                    .service-box .btn-link .fa {
+                                                        margin: 0px 0px 0px 5px;
+                                                    }
+                                                    .desktop {
+                                                        display: none;
+                                                    }
+                                                    .mobile {
+                                                        display: block;
+                                                    }
+                                                    /* CSS end*/
+                                                }
+                                                /* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+                                                
+                                                @media (min-width: 320px) and (max-width: 480px) {
+                                                    /* CSS start*/
+                                                    .header .navbar-toggler {
+                                                        border: 1px solid #473BF0;
+                                                        border-radius: 3px;
+                                                    }
+                                                    .header .navbar-toggler:focus {
+                                                        text-decoration: none;
+                                                        outline: 0;
+                                                        box-shadow: 0 0 3px #473BF0;
+                                                        background: #756fd3;
+                                                    }
+                                                    .header .navbar-toggler:focus .fa {
+                                                        color: #fff;
+                                                    }
+                                                    .header .navbar-toggler .fa {
+                                                        color: #473BF0;
+                                                        font-size: 30px;
+                                                        font-weight: 300;
+                                                    }
+                                                    /* header menu */
+                                                    .header .navbar .navbar-nav .nav-item .nav-link {
+                                                        margin: 0px;
+                                                    }
+                                                    .header .navbar-nav .nav-item .btn-info {
+                                                        margin: 10px 0px 0px;
+                                                    }
+                                                    /* banner  */
+                                                    .banner {
+                                                        padding: 35px 0px 0px;
+                                                    }
+                                                    .inner-banner {
+                                                        padding: 10px 0px 35px;
+                                                    }
+                                                    .inner-banner h1 {
+                                                        width: 100%;
+                                                        font-size: 32px;
+                                                        line-height: 1.3em;
+                                                        margin: 0px 0px 10px 0px;
+                                                    }
+                                                    .inner-banner p {
+                                                        width: 100%;
+                                                        font-size: 15px;
+                                                        margin: 0px 0px 10px 0px;
+                                                    }
+                                                    .inner-banner .btn-info {
+                                                        font-size: 13px;
+                                                        margin: 5px 0px 0px;
+                                                    }
+                                                    .inner-banner .link {
+                                                        font-size: 12px;
+                                                        margin: 10px 0px 0px -25px;
+                                                    }
+                                                    /* alart css code */
+                                                    .alart {
+                                                        padding: 20px 0px;
+                                                    }
+                                                    .alart p {
+                                                        font-size: 14px;
+                                                    }
+                                                    /* expert section css code */
+                                                    .expert {
+                                                        padding: 35px 0px;
+                                                    }
+                                                    .expert .inner-expert {
+                                                        padding: 0px 0px 35px;
+                                                    }
+                                                    .expert .inner-expert h2 {
+                                                        font-size: 26px;
+                                                        margin: 0px 0px 10px 0px;
+                                                    }
+                                                    .expert .inner-expert p {
+                                                        width: 100%;
+                                                        font-size: 14px;
+                                                        margin: 0px 0px 0px 0px;
+                                                    }
+                                                    .expert .inner-expert .btn-info {
+                                                        padding: 10px 15px;
+                                                        font-size: 13px;
+                                                        margin: 10px 0px 0px 0px;
+                                                    }
+                                                    .expert .img-fluid {
+                                                        width: 100%;
+                                                    }
+                                                    .expert .expert-right h2 {
+                                                        font-size: 24px;
+                                                        margin: 0px 0px 0px 0px;
+                                                    }
+                                                    .expert .expert-right p {
+                                                        font-size: 15px;
+                                                    }
+                                                    /* secrvice section css code */
+                                                    .services {
+                                                        padding: 40px 0px;
+                                                    }
+                                                    .services .tittle {
+                                                        padding: 0px 0px 30px;
+                                                    }
+                                                    .services .tittle h1 {
+                                                        font-size: 25px;
+                                                    }
+                                                    .services .tittle p {
+                                                        width: 100%;
+                                                        font-size: 15px;
+                                                    }
+                                                    .service-box {
+                                                        margin: 0px 0px 10px;
+                                                    }
+                                                    .service-box h4 {
+                                                        font-size: 18px;
+                                                        margin: 0px 0px 10px;
+                                                    }
+                                                    .service-box p {
+                                                        width: 100%;
+                                                        font-size: 13px;
+                                                        margin: 0px 0px 10px;
+                                                    }
+                                                    .service-box .btn-link {
+                                                        font-size: 14px;
+                                                        margin: 0px 0px 0px 0px;
+                                                    }
+                                                    .service-box .btn-link .fa {
+                                                        margin: 0px 0px 0px 10px;
+                                                    }
+                                                    /* reason section css code */
+                                                    .reason {
+                                                        padding: 0px 0px 0px 0px;
+                                                        margin: 0px 0px 0px 0px;
+                                                    }
+                                                    .desktop {
+                                                        display: none;
+                                                    }
+                                                    .mobile {
+                                                        display: block;
+                                                    }
+                                                    .reason .man-img {
+                                                        width: 100%;
+                                                        margin: 0px 0px -196px 0px;
+                                                    }
+                                                    .reason .olvo-img {
+                                                        width: 79%;
+                                                        margin: 1px 0px -403px -11px;
+                                                    }
+                                                    .reason-inner h2 {
+                                                        width: 100%;
+                                                        font-size: 24px;
+                                                        margin: 0px 0px 10px 0px;
+                                                    }
+                                                    .reason p {
+                                                        font-size: 14px;
+                                                        margin: 0px 0px 10px 0px;
+                                                    }
+                                                    /* video section css code */
+                                                    .video-inner h1 {
+                                                        font-size: 26px;
+                                                        margin: 0px 0px 10px 0px;
+                                                    }
+                                                    .video-inner p {
+                                                        width: 100%;
+                                                        font-size: 15px;
+                                                    }
+                                                    /* testimonial section css code */
+                                                    .testimonial {
+                                                        padding: 40px 0px;
+                                                    }
+                                                    .testimonial .tittle {
+                                                        padding: 0px 0px 30px;
+                                                    }
+                                                    .testimonial .tittle h1 {
+                                                        font-size: 25px;
+                                                        margin: 0px 0px 10px 0px;
+                                                    }
+                                                    .testimonial .tittle p {
+                                                        width: 100%;
+                                                        font-size: 15px;
+                                                    }
+                                                    .client-box {
+                                                        padding: 20px;
+                                                    }
+                                                    .client-box p {
+                                                        font-size: 15px;
+                                                    }
+                                                    .client-box p .name {
+                                                        font-size: 13px;
+                                                    }
+                                                    .client-box p .info {
+                                                        font-size: 13px;
+                                                    }
+                                                    /* .ready section css code */
+                                                    .ready {
+                                                        padding: 30px;
+                                                    }
+                                                    .ready-left h1 {
+                                                        font-size: 22px;
+                                                        margin: 0px 0px 10px 0px;
+                                                    }
+                                                    .ready-right .btn-info {
+                                                        padding: 10px 15px;
+                                                        font-size: 13px;
+                                                        margin: 0px 0p 10px 0px;
+                                                    }
+                                                    /* footer section css code */
+                                                    .footer {
+                                                        padding: 40px;
+                                                    }
+                                                    .left-controler p {
+                                                        width: 100%;
+                                                        font-size: 13px;
+                                                        margin: 15px 0px 15px 0px;
+                                                    }
+                                                    .left-controler .fa {
+                                                        margin: 0px 20px 15px 0px;
+                                                    }
+                                                    .footer-controler {
+                                                        width: 100%;
+                                                        display: flex;
+                                                    }
+                                                    .footer ul li a {
+                                                        font-size: 13PX;
+                                                        margin: 0PX 0PX 5PX 0PX;
+                                                    }
+                                                    .footer ul li span {
+                                                        font-size: 13PX;
+                                                        margin: 0PX 0PX 5PX 0PX;
+                                                    }
+                                                }
+                                                /* CSS end*/
+                                                /* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+                                                
+                                                @media (min-width: 481px) and (max-width: 767px) {
+                                                    /* CSS start*/
+                                                    .header .navbar-toggler {
+                                                        border: 1px solid #473BF0;
+                                                        border-radius: 3px;
+                                                    }
+                                                    .header .navbar-toggler:focus {
+                                                        text-decoration: none;
+                                                        outline: 0;
+                                                        box-shadow: 0 0 3px #473BF0;
+                                                        background: #473BF0;
+                                                    }
+                                                    .header .navbar-toggler:focus .fa {
+                                                        color: #fff;
+                                                    }
+                                                    .header .navbar-toggler .fa {
+                                                        color: #473BF0;
+                                                        font-size: 30px;
+                                                        font-weight: 300;
+                                                    }
+                                                    /* header menu */
+                                                    .header .navbar .navbar-nav .nav-item .nav-link {
+                                                        margin: 0px;
+                                                    }
+                                                    .header .navbar-nav .nav-item .btn-info {
+                                                        margin: 10px 0px 0px;
+                                                    }
+                                                    /* banner  */
+                                                    .banner {
+                                                        padding: 40px 0px 0px;
+                                                    }
+                                                    .inner-banner {
+                                                        padding: 15px 0px 40px;
+                                                    }
+                                                    .inner-banner h1 {
+                                                        width: 100%;
+                                                        font-size: 44px;
+                                                        line-height: 1.3em;
+                                                        margin: 0px 0px 15px 0px;
+                                                    }
+                                                    .inner-banner p {
+                                                        width: 100%;
+                                                        font-size: 18px;
+                                                        margin: 0px 0px 15px 0px;
+                                                    }
+                                                    .inner-banner .btn-info {
+                                                        font-size: 13px;
+                                                        margin: 10px 0px 0px;
+                                                    }
+                                                    .inner-banner .link {
+                                                        font-size: 13px;
+                                                        margin: 15px 0px 0px -25px;
+                                                    }
+                                                    /* alart css code */
+                                                    .alart {
+                                                        padding: 25px 0px;
+                                                    }
+                                                    .alart p {
+                                                        font-size: 15px;
+                                                    }
+                                                    /* expert section css code */
+                                                    .expert {
+                                                        padding: 40px 0px;
+                                                    }
+                                                    .expert .inner-expert {
+                                                        padding: 0px 0px 40px;
+                                                    }
+                                                    .expert .inner-expert h2 {
+                                                        font-size: 28px;
+                                                        margin: 0px 0px 15px 0px;
+                                                    }
+                                                    .expert .inner-expert p {
+                                                        width: 100%;
+                                                        font-size: 15px;
+                                                        margin: 0px 0px 0px 0px;
+                                                    }
+                                                    .expert .inner-expert .btn-info {
+                                                        padding: 10px 15px;
+                                                        font-size: 14px;
+                                                        margin: 15px 0px 0px 0px;
+                                                    }
+                                                    .expert .img-fluid {
+                                                        width: 100%;
+                                                    }
+                                                    .expert .expert-right h2 {
+                                                        font-size: 26px;
+                                                        margin: 0px 0px 0px 0px;
+                                                    }
+                                                    .expert .expert-right p {
+                                                        font-size: 16px;
+                                                    }
+                                                    /* secrvice section css code */
+                                                    .services {
+                                                        padding: 40px 0px;
+                                                    }
+                                                    .services .tittle {
+                                                        padding: 0px 0px 30px;
+                                                    }
+                                                    .services .tittle h1 {
+                                                        font-size: 30px;
+                                                    }
+                                                    .services .tittle p {
+                                                        width: 100%;
+                                                        font-size: 16px;
+                                                    }
+                                                    .service-box {
+                                                        margin: 0px 0px 15px;
+                                                    }
+                                                    .service-box h4 {
+                                                        font-size: 19px;
+                                                        margin: 0px 0px 15px;
+                                                    }
+                                                    .service-box p {
+                                                        width: 100%;
+                                                        font-size: 14px;
+                                                        margin: 0px 0px 15px;
+                                                    }
+                                                    .service-box .btn-link {
+                                                        font-size: 14px;
+                                                        margin: 0px 0px 0px 0px;
+                                                    }
+                                                    .service-box .btn-link .fa {
+                                                        margin: 0px 0px 0px 15px;
+                                                    }
+                                                    .desktop {
+                                                        display: none;
+                                                    }
+                                                    .mobile {
+                                                        display: block;
+                                                    }
+                                                    /* reason section css code */
+                                                    .reason {
+                                                        padding: 0px 0px 0px 0px;
+                                                        margin: 0px 0px 0px 0px;
+                                                    }
+                                                    .desktop {
+                                                        display: none;
+                                                    }
+                                                    .mobile {
+                                                        display: block;
+                                                    }
+                                                    .reason .man-img {
+                                                        width: 100%;
+                                                        margin: 0px 0px -308px 0px;
+                                                    }
+                                                    .reason .olvo-img {
+                                                        width: 79%;
+                                                        margin: 1px 0px -619px -11px;
+                                                    }
+                                                    .reason-inner h2 {
+                                                        width: 100%;
+                                                        font-size: 28px;
+                                                        margin: 0px 0px 15px 0px;
+                                                    }
+                                                    .reason p {
+                                                        font-size: 16px;
+                                                        margin: 0px 0px 10px 0px;
+                                                    }
+                                                    /* video section css code */
+                                                    .video-inner h1 {
+                                                        font-size: 28px;
+                                                        margin: 0px 0px 10px 0px;
+                                                    }
+                                                    .video-inner p {
+                                                        width: 100%;
+                                                        font-size: 16px;
+                                                    }
+                                                    /* testimonial section css code */
+                                                    .testimonial {
+                                                        padding: 45px 0px;
+                                                    }
+                                                    .testimonial .tittle {
+                                                        padding: 0px 0px 35px;
+                                                    }
+                                                    .testimonial .tittle h1 {
+                                                        font-size: 29px;
+                                                        margin: 0px 0px 10px 0px;
+                                                    }
+                                                    .testimonial .tittle p {
+                                                        width: 100%;
+                                                        font-size: 16px;
+                                                    }
+                                                    .client-box {
+                                                        padding: 25px;
+                                                    }
+                                                    .client-box p {
+                                                        font-size: 16px;
+                                                    }
+                                                    .client-box p .name {
+                                                        font-size: 14px;
+                                                    }
+                                                    .client-box p .info {
+                                                        font-size: 14px;
+                                                    }
+                                                    /* .ready section css code */
+                                                    .ready {
+                                                        padding: 35px;
+                                                    }
+                                                    .ready-left h1 {
+                                                        font-size: 26px;
+                                                        margin: 0px 0px 10px 0px;
+                                                    }
+                                                    .ready-right .btn-info {
+                                                        padding: 10px 15px;
+                                                        font-size: 14px;
+                                                        margin: 0px 0p 10px 0px;
+                                                    }
+                                                    /* footer section css code */
+                                                    .footer {
+                                                        padding: 45px;
+                                                    }
+                                                    .left-controler p {
+                                                        width: 100%;
+                                                        font-size: 14px;
+                                                        margin: 15px 0px 15px 0px;
+                                                    }
+                                                    .left-controler .fa {
+                                                        margin: 0px 20px 15px 0px;
+                                                    }
+                                                    .footer-controler {
+                                                        width: 100%;
+                                                        display: flex;
+                                                    }
+                                                    .footer ul li a {
+                                                        font-size: 14PX;
+                                                        margin: 0PX 0PX 8PX 0PX;
+                                                    }
+                                                    .footer ul li span {
+                                                        font-size: 14PX;
+                                                        margin: 0PX 0PX 8PX 0PX;
+                                                    }
+                                                    /* CSS end*/
+                                                }
+                                                /* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+                                                
+                                                @media (min-width: 768px) and (max-width: 1024px) {
+                                                    /* CSS start*/
+                                                    .header .navbar-toggler {
+                                                        border: 1px solid #473BF0;
+                                                        border-radius: 3px;
+                                                    }
+                                                    .header .navbar-toggler:focus {
+                                                        text-decoration: none;
+                                                        outline: 0;
+                                                        box-shadow: 0 0 3px #473BF0;
+                                                        background: #473BF0;
+                                                    }
+                                                    .header .navbar-toggler:focus .fa {
+                                                        color: #fff;
+                                                    }
+                                                    .header .navbar-toggler .fa {
+                                                        color: #473BF0;
+                                                        font-size: 30px;
+                                                        font-weight: 300;
+                                                    }
+                                                    /* header menu */
+                                                    .header .navbar .navbar-nav .nav-item .nav-link {
+                                                        margin: 0px;
+                                                    }
+                                                    .header .navbar-nav .nav-item .btn-info {
+                                                        margin: 10px 0px 0px;
+                                                    }
+                                                    /* banner  */
+                                                    .banner {
+                                                        padding: 35px 0px 0px;
+                                                    }
+                                                    .inner-banner {
+                                                        padding: 10px 0px 35px;
+                                                    }
+                                                    .inner-banner h1 {
+                                                        width: 100%;
+                                                        font-size: 46px;
+                                                        line-height: 1.3em;
+                                                        margin: 0px 0px 10px 0px;
+                                                    }
+                                                    .inner-banner p {
+                                                        width: 100%;
+                                                        font-size: 20px;
+                                                        margin: 0px 0px 10px 0px;
+                                                    }
+                                                    .inner-banner .btn-info {
+                                                        font-size: 14px;
+                                                        margin: 5px 0px 0px;
+                                                    }
+                                                    .inner-banner .link {
+                                                        font-size: 13px;
+                                                        margin: 10px 0px 0px -25px;
+                                                    }
+                                                    .banner .ipad-text-center {
+                                                        text-align: center;
+                                                    }
+                                                    /* alart css code */
+                                                    .alart {
+                                                        padding: 20px 0px;
+                                                    }
+                                                    .alart p {
+                                                        font-size: 16px;
+                                                    }
+                                                    /* expert section css code */
+                                                    .expert {
+                                                        padding: 50px 0px;
+                                                    }
+                                                    .expert .inner-expert {
+                                                        padding: 0px 0px 45px;
+                                                    }
+                                                    .expert .inner-expert h2 {
+                                                        font-size: 30px;
+                                                        margin: 0px 0px 10px 0px;
+                                                    }
+                                                    .expert .inner-expert p {
+                                                        width: 100%;
+                                                        font-size: 17px;
+                                                        margin: 0px 0px 0px 0px;
+                                                    }
+                                                    .expert .inner-expert .btn-info {
+                                                        padding: 10px 15px;
+                                                        font-size: 14px;
+                                                        margin: 15px 0px 0px 0px;
+                                                    }
+                                                    .expert .img-fluid {
+                                                        width: 100%;
+                                                    }
+                                                    .expert .expert-right h2 {
+                                                        font-size: 29px;
+                                                        margin: 0px 0px 0px 0px;
+                                                    }
+                                                    .expert .expert-right p {
+                                                        font-size: 17px;
+                                                    }
+                                                    /* secrvice section css code */
+                                                    .services {
+                                                        padding: 50px 0px;
+                                                    }
+                                                    .services .tittle {
+                                                        padding: 0px 0px 35px;
+                                                    }
+                                                    .services .tittle h1 {
+                                                        font-size: 34px;
+                                                    }
+                                                    .services .tittle p {
+                                                        width: 100%;
+                                                        font-size: 18px;
+                                                    }
+                                                    .service-box {
+                                                        margin: 0px 0px 15px;
+                                                    }
+                                                    .service-box h4 {
+                                                        font-size: 20px;
+                                                        margin: 0px 0px 15px;
+                                                    }
+                                                    .service-box p {
+                                                        width: 100%;
+                                                        font-size: 16px;
+                                                        margin: 0px 0px 15px;
+                                                    }
+                                                    .service-box .btn-link {
+                                                        font-size: 16px;
+                                                        margin: 0px 0px 0px 0px;
+                                                    }
+                                                    .service-box .btn-link .fa {
+                                                        margin: 0px 0px 0px 20px;
+                                                    }
+                                                    .desktop {
+                                                        display: none;
+                                                    }
+                                                    .mobile {
+                                                        display: block;
+                                                    }
+                                                    /* reason section css code */
+                                                    .reason {
+                                                        padding: 0px 0px 0px 0px;
+                                                        margin: 0px 0px 0px 0px;
+                                                    }
+                                                    .desktop {
+                                                        display: none;
+                                                    }
+                                                    .mobile {
+                                                        display: block;
+                                                    }
+                                                    .reason .man-img {
+                                                        width: 100%;
+                                                        margin: 0px 0px -449px 0px;
+                                                    }
+                                                    .reason .olvo-img {
+                                                        width: 79%;
+                                                        margin: 1px 0px -960px -11px;
+                                                    }
+                                                    .reason-inner h2 {
+                                                        width: 100%;
+                                                        font-size: 32px;
+                                                        margin: 0px 0px 20px 0px;
+                                                    }
+                                                    .reason p {
+                                                        font-size: 17px;
+                                                        margin: 0px 0px 15px 0px;
+                                                    }
+                                                    /* video section css code */
+                                                    .video-inner h1 {
+                                                        font-size: 32px;
+                                                        margin: 0px 0px 10px 0px;
+                                                    }
+                                                    .video-inner p {
+                                                        width: 100%;
+                                                        font-size: 17px;
+                                                    }
+                                                    /* testimonial section css code */
+                                                    .testimonial {
+                                                        padding: 50px 0px;
+                                                    }
+                                                    .testimonial .tittle {
+                                                        padding: 0px 0px 40px;
+                                                    }
+                                                    .testimonial .tittle h1 {
+                                                        font-size: 31px;
+                                                        margin: 0px 0px 10px 0px;
+                                                    }
+                                                    .testimonial .tittle p {
+                                                        width: 100%;
+                                                        font-size: 17px;
+                                                    }
+                                                    .client-box {
+                                                        padding: 30px;
+                                                    }
+                                                    .client-box p {
+                                                        font-size: 17px;
+                                                    }
+                                                    .client-box p .name {
+                                                        font-size: 15px;
+                                                    }
+                                                    .client-box p .info {
+                                                        font-size: 15px;
+                                                    }
+                                                    /* .ready section css code */
+                                                    .ready {
+                                                        padding: 40px;
+                                                    }
+                                                    .ready-left h1 {
+                                                        font-size: 29px;
+                                                        margin: 0px 0px 10px 0px;
+                                                    }
+                                                    .ready-right .btn-info {
+                                                        padding: 10px 15px;
+                                                        font-size: 15px;
+                                                        margin: 0px 0p 10px 0px;
+                                                    }
+                                                    /* footer section css code */
+                                                    .footer {
+                                                        padding: 50px;
+                                                    }
+                                                    .left-controler p {
+                                                        width: 100%;
+                                                        font-size: 15px;
+                                                        margin: 15px 0px 15px 0px;
+                                                    }
+                                                    .left-controler .fa {
+                                                        margin: 0px 20px 15px 0px;
+                                                    }
+                                                    .footer-controler {
+                                                        width: 100%;
+                                                        display: inline-block;
+                                                    }
+                                                    .footer ul li a {
+                                                        font-size: 15PX;
+                                                        margin: 0PX 0PX 10PX 0PX;
+                                                    }
+                                                    .footer ul li span {
+                                                        font-size: 15PX;
+                                                        margin: 0PX 0PX 10PX 0PX;
+                                                    }
+                                                    /* CSS end*/
+                                                }
